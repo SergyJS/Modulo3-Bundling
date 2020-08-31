@@ -18,4 +18,4 @@ Esta es una aplicacion simple para la entrega del modulo 3.
 #### Bundle Analyzer
 
 -   `npm run build:prod`
--   Abrir el fichero `dist`
+-   Abrir el fichero `dist/report.html`
