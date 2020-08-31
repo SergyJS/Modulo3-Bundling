@@ -8,7 +8,7 @@ Esta es una aplicacion simple para la entrega del modulo 3.
 
 #### Dev-Server
 
--   npm run start`
+-   `npm run start`
 
 #### Build
 
@@ -18,4 +18,4 @@ Esta es una aplicacion simple para la entrega del modulo 3.
 #### Bundle Analyzer
 
 -   `npm run build:prod`
--   Abrir el fichero `dist
+-   Abrir el fichero `dist`
