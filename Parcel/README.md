@@ -1,6 +1,6 @@
 # Modulo 3 - Bundling - Parcel
 
-Esta es una aplicacion simple para la entrega del modulo 3.
+Esta es una aplicacion simple para la entrega del modulo 3
 
 ## Instrucciones
 
